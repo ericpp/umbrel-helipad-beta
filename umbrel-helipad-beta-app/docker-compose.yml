@@ -7,7 +7,7 @@ services:
       APP_PORT: 5150
 
   web:
-    image: podcastindexorg/podcasting20-helipad@sha256:1872f331d674b24bfb419a8229a5701912398ef3649d212dc5641780393f1ae2
+    image: podcastindexorg/podcasting20-helipad@sha256:fffdeae622ebbd4410544b078a27f80026cd4a49ca328f7e6aeaaef01b193540
     init: true
     restart: on-failure
     stop_grace_period: 1m
