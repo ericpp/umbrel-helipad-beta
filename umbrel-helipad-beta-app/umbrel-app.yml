@@ -3,7 +3,7 @@ id: umbrel-helipad-beta-app
 category: bitcoin
 name: Helipad Beta
 icon: https://ericpp.github.io/umbrel-helipad-beta/icon.svg
-version: "0.2.1"
+version: "0.2.2"
 tagline: View boosts & boostagrams from Podcasting 2.0 apps
 description: Helipad shows boosts and boostagram messages coming in to your
   Lightning node from your listeners who are using Podcasting 2.0 apps.
